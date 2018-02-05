@@ -2,11 +2,7 @@
 
 閱讀過 / 正在閱讀 / 即將閱讀 / 打算閱讀 的書單整理
 
-
-
 ### 完整閱讀
-
---網路竟然這麼危險
 
 [測試驅動開發：使用 Python (Test-Driven Development with Python)](https://www.tenlong.com.tw/products/9789864760244)
 
@@ -16,6 +12,7 @@
 
 [黑帽 Python | 給駭客與滲透測試者的 Python 開發指南](https://www.tenlong.com.tw/products/9789863477808)
 
+[網路竟然這麼危險！阿里巴巴首席安全專家教你全方位保護網站--第3版 ](https://www.tenlong.com.tw/products/9789863792826)
 
 
 ### 已閱讀 (跳過部分章節)
@@ -28,13 +25,13 @@
 
 [Python 錦囊妙計, 3/e (Python Cookbook, 3/e)](https://www.tenlong.com.tw/products/9789863470687)
 
-[Effective Python 中文版 | 寫出良好 Python 程式的 59 個具體做法 (Effective Python: 59 Specific Ways to Write Better Python)](https://www.tenlong.com.tw/products/9789863477020)
-
 [Python 3 物件導向程式設計, 2/e](https://www.tenlong.com.tw/products/9789863479819)
 
 
 
 ### 進行中
+
+[Effective Python 中文版 | 寫出良好 Python 程式的 59 個具體做法 (Effective Python: 59 Specific Ways to Write Better Python)](https://www.tenlong.com.tw/products/9789863477020)
 
 
 ### 只看了一點
