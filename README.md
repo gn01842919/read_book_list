@@ -43,5 +43,9 @@ Continues Delivery
 Effective C++
 
 
+### 已購買，尚未閱讀
 
+[敏捷方程式：成就敏捷之路](https://www.tenlong.com.tw/products/9789864342686)
+
+[今天不學機器學習，明天就被機器取代：從 Python入手+演算法](https://www.tenlong.com.tw/products/9789863794325)
 
