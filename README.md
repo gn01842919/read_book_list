@@ -14,6 +14,8 @@
 
 [Effective Python 中文版 | 寫出良好 Python 程式的 59 個具體做法 (Effective Python: 59 Specific Ways to Write Better Python)](https://www.tenlong.com.tw/products/9789863477020)
 
+[Python 3 物件導向程式設計, 2/e](https://www.tenlong.com.tw/products/9789863479819)
+
 [網站擷取｜使用Python (Web Scraping with Python: Collecting Data from the Modern Web)](https://www.tenlong.com.tw/products/9789864761753)
 
 [深入淺出 SQL (Head First SQL)](https://www.tenlong.com.tw/products/9789866840166)
@@ -32,8 +34,6 @@
 
 [流暢的 Python｜清晰、簡潔、有效的程式設計 (Fluent Python)](https://www.tenlong.com.tw/products/9789863479116)
 
-[Python 3 物件導向程式設計, 2/e](https://www.tenlong.com.tw/products/9789863479819)
-
 [Python 新手使用 Django 架站的 16堂課-活用 Django Web Framework快速建構動態網站](https://www.tenlong.com.tw/products/9789864341658)
 
 [敏捷方程式：成就敏捷之路](https://www.tenlong.com.tw/products/9789864342686)
@@ -44,7 +44,7 @@
 
 ### 進行中
 
-
+[從車庫的舊 PC 到百萬台伺服器－巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](https://www.tenlong.com.tw/products/9789865712334)
 
 
 ### 只看了一點
