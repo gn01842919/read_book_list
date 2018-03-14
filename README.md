@@ -12,6 +12,8 @@
 
 [高效程序員的45個習慣:敏捷開發修煉之道 (Practices of an Agile Developer:Working in the Real World)](https://www.tenlong.com.tw/products/9787115370365)
 
+[從車庫的舊 PC 到百萬台伺服器－巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](https://www.tenlong.com.tw/products/9789865712334)
+
 [Effective Python 中文版 | 寫出良好 Python 程式的 59 個具體做法 (Effective Python: 59 Specific Ways to Write Better Python)](https://www.tenlong.com.tw/products/9789863477020)
 
 [Python 3 物件導向程式設計, 2/e](https://www.tenlong.com.tw/products/9789863479819)
@@ -44,7 +46,8 @@
 
 ### 進行中
 
-[從車庫的舊 PC 到百萬台伺服器－巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](https://www.tenlong.com.tw/products/9789865712334)
+[高效能網站開發指南 (High Performance Browser Networking: What every web developer should know about networking and web performance)](https://www.tenlong.com.tw/products/9789863473541)
+
 
 
 ### 只看了一點
@@ -76,3 +79,4 @@
 
 [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition, 2/e)](https://www.tenlong.com.tw/products/9789867889188)
 
+[改變世界的九大演算法 : 讓今日電腦無所不能的最強概念 (Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today’s Computers)](https://www.tenlong.com.tw/products/9789866031557)
