@@ -38,6 +38,9 @@
 
 [流暢的 Python｜清晰、簡潔、有效的程式設計 (Fluent Python)](https://www.tenlong.com.tw/products/9789863479116)
 
+
+[高效能 Python 程式設計 (High Performance Python: Practical Performant Programming for Humans)](https://www.tenlong.com.tw/products/9789863477105)
+
 [Python 新手使用 Django 架站的 16堂課-活用 Django Web Framework快速建構動態網站](https://www.tenlong.com.tw/products/9789864341658)
 
 [敏捷方程式：成就敏捷之路](https://www.tenlong.com.tw/products/9789864342686)
@@ -47,9 +50,6 @@
 
 
 ### 進行中
-
-[高效能 Python 程式設計 (High Performance Python: Practical Performant Programming for Humans)](https://www.tenlong.com.tw/products/9789863477105)
-
 
 
 ### 只看了一點
