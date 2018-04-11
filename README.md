@@ -47,21 +47,23 @@
 
 [Docker 入門與實戰, 2/e](https://www.tenlong.com.tw/products/9789864764860)
 
-
+[敏捷軟體開發：原則、樣式及實務 (Agile Software Development: Principles, Patterns, and Practices)](https://www.tenlong.com.tw/products/9789861541488)
 
 ### 進行中
 
+[寫給未來社會的新帳本──區塊鏈：人類的新型貨幣、終極信任機器與分散治理革命 (Decoding Global Blockchain and Investment Cases)](https://www.tenlong.com.tw/products/9789865695750)
 
 ### 只看了一點
 
 [Python 錦囊妙計, 3/e (Python Cookbook, 3/e)](https://www.tenlong.com.tw/products/9789863470687)
 
-[敏捷軟體開發：原則、樣式及實務 (Agile Software Development: Principles, Patterns, and Practices)](https://www.tenlong.com.tw/products/9789861541488)
-
 [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈(Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](https://www.tenlong.com.tw/products/9789862019627)
 
 [Effective C++, 3/e (中文版) (Effective C++: 55 Specific Ways to Improve Your Programs and Designs, 3/e)](https://www.tenlong.com.tw/products/9789861543550)
 
+[人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition, 2/e)](https://www.tenlong.com.tw/products/9789867889188)
+
+[改變世界的九大演算法 : 讓今日電腦無所不能的最強概念 (Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today’s Computers)](https://www.tenlong.com.tw/products/9789866031557)
 
 ### 已購買，尚未閱讀
 
@@ -69,14 +71,8 @@
 
 [深入淺出軟體開發 (Head First Software Development)](https://www.tenlong.com.tw/products/9789866840210)
 
-[寫給未來社會的新帳本──區塊鏈：人類的新型貨幣、終極信任機器與分散治理革命 (Decoding Global Blockchain and Investment Cases)](https://www.tenlong.com.tw/products/9789865695750)
-
 [今天不學機器學習，明天就被機器取代：從 Python入手+演算法](https://www.tenlong.com.tw/products/9789863794325)
 
 [一次搞懂統計與分析：大數據時代的必勝競爭力 ](https://www.tenlong.com.tw/products/9789862729472)
 
 [Python：期貨演算法交易實務 121個關鍵技巧詳解](https://www.tenlong.com.tw/products/9789864342631)
-
-[人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition, 2/e)](https://www.tenlong.com.tw/products/9789867889188)
-
-[改變世界的九大演算法 : 讓今日電腦無所不能的最強概念 (Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today’s Computers)](https://www.tenlong.com.tw/products/9789866031557)
